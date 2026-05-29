@@ -119,7 +119,11 @@ The frequency band is allocated now. Now we need to get the Gateway ID. To get t
 
 
 ## OUTPUT 
+## Red and Blue light indication from the Router
+<img width="739" height="1465" alt="WhatsApp Image 2026-05-29 at 7 29 20 PM" src="https://github.com/user-attachments/assets/dd2803c3-2532-43d6-82f9-b67a04055bec" />
 
+## Network IP Connection Status
+<img width="1498" height="902" alt="image" src="https://github.com/user-attachments/assets/8511ff6e-519b-45d7-b5e2-1c52ab92b0b8" />
 
 
 
