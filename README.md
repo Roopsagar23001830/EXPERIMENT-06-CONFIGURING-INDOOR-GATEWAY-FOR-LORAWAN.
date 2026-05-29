@@ -1,5 +1,9 @@
 # EXPERIMENT-06-CONFIGURING-INDOOR-GATEWAY-FOR-LORAWAN
 
+## Name : Roop Sagar S L
+## Reg No : 212223040175
+## Dept : B.E / CSE
+
 ## Aim: 
 
 To  configure  Dragino LPS8 Indoor LoRaWAN gateway for things  network .
